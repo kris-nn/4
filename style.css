@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background:
+    url("https://mars.algoritmika.org/uploads/2021/01/fish2_0_1610653588.svg") no-repeat 50% 40%,
+    url(https://mars.algoritmika.org/uploads/2021/01/fish1_0_1610653588.svg) no-repeat 70% 90%,
+    url(https://mars.algoritmika.org/uploads/2021/01/coral_0_1610653588.svg) no-repeat 90% 70%
+}
+
+h1 {
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+}
+
+img {
+    height: 200px;
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+footer {
+    margin: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border: 1px solid indigo;
+    background-color: indigo;
+    padding: 5px;
+    border-radius: 10px;
+}
